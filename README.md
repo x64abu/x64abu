@@ -1,10 +1,10 @@
 <div align="left">
   <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
-  
-  Hi, I am Abu; a software engineering college student.
+  Hi, I am Abu
   <br>
-  I like code and learning about computers.
+  a software engineering college student.
   <br>
+  I like codes and learning about computers.
   <br>
   My favorite things: 
   + Anime / Animation
